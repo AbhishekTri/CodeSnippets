@@ -1,2 +1,2 @@
 # CodeSnippets
-Code Snippets of Various Algorithms And CP Questions
+Code Snippets of various Algorithms And CP Questions
